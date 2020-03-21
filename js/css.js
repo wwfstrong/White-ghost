@@ -11,7 +11,7 @@ const string = `
 #box {
   width: 500px;
   height: 400px;
-  margin: 20px auto 0;
+  margin: -50px auto 0;
   position: relative;
 }
 /* 白幽灵的身体*/
